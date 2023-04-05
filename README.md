@@ -11,3 +11,7 @@ The project sets the structure to add the functionality of accelerated CSA decry
     make
 Or open `dvbcsa_cuda.pro` in Qt Creator
 
+### TODO
+* Create benchmarks
+* Create Tests
+* Remove Qt usage for building, use make/cmake only
